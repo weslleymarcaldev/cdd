@@ -1,0 +1,147 @@
+{
+    "periodos": {
+        "1": [
+            {
+                "codigo": "CAD103",
+                "nome": "Administração TGA",
+                "creditos": 4,
+                "teor": 60,
+                "prat": 0,
+                "total": 60,
+                "prereq": "",
+                "done": false,
+                "link": "",
+                "materiais": [],
+                "notas": ""
+            },
+            {
+                "codigo": "DCC203",
+                "nome": "Programação e Desenvolvimento de Software I",
+                "creditos": 4,
+                "teor": 60,
+                "prat": 0,
+                "total": 60,
+                "prereq": "",
+                "done": false,
+                "link": "",
+                "materiais": [],
+                "notas": ""
+            },
+            {
+                "codigo": "DCC638",
+                "nome": "Introdução à Lógica Computacional",
+                "creditos": 4,
+                "teor": 60,
+                "prat": 0,
+                "total": 60,
+                "prereq": "",
+                "done": false,
+                "link": "",
+                "materiais": [],
+                "notas": ""
+            },
+            {
+                "codigo": "ICE071",
+                "nome": "Fundamentos de Ciência de Dados",
+                "creditos": 4,
+                "teor": 45,
+                "prat": 15,
+                "total": 60,
+                "prereq": "",
+                "done": false,
+                "link": "",
+                "materiais": [],
+                "notas": ""
+            },
+            {
+                "codigo": "MAT001",
+                "nome": "Cálculo Diferencial e Integral I",
+                "creditos": 6,
+                "teor": 90,
+                "prat": 0,
+                "total": 90,
+                "prereq": "",
+                "done": false,
+                "link": "",
+                "materiais": [],
+                "notas": ""
+            }
+        ],
+        "2": [
+            {
+                "codigo": "DCC204",
+                "nome": "Programação e Desenvolvimento de Software II",
+                "creditos": 4,
+                "teor": 60,
+                "prat": 0,
+                "total": 60,
+                "prereq": "DCC203",
+                "done": false,
+                "link": "",
+                "materiais": [],
+                "notas": ""
+            },
+            {
+                "codigo": "DCC216",
+                "nome": "Matemática Discreta",
+                "creditos": 4,
+                "teor": 60,
+                "prat": 0,
+                "total": 60,
+                "prereq": "DCC638",
+                "done": false,
+                "link": "",
+                "materiais": [],
+                "notas": ""
+            },
+            {
+                "codigo": "EST229",
+                "nome": "Estatística Básica",
+                "creditos": 4,
+                "teor": 60,
+                "prat": 0,
+                "total": 60,
+                "prereq": "ICE071",
+                "done": false,
+                "link": "",
+                "materiais": [],
+                "notas": ""
+            },
+            {
+                "codigo": "MAT038",
+                "nome": "Geometria Analítica e Álgebra Linear",
+                "creditos": 4,
+                "teor": 60,
+                "prat": 0,
+                "total": 60,
+                "prereq": "",
+                "done": false,
+                "link": "",
+                "materiais": [],
+                "notas": ""
+            },
+            {
+                "codigo": "MAT039",
+                "nome": "Cálculo Diferencial e Integral II",
+                "creditos": 4,
+                "teor": 60,
+                "prat": 0,
+                "total": 60,
+                "prereq": "MAT001",
+                "done": false,
+                "link": "",
+                "materiais": [],
+                "notas": ""
+            }
+        ],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [],
+        "7": [],
+        "8": [],
+        "9": [],
+        "OPT": []
+    },
+    "notas": {}
+}

@@ -1,0 +1,19 @@
+# cdd/.streamlit/config.toml
+
+[theme]
+base = "dark"
+primaryColor = "#A970FF"
+backgroundColor = "#0E1117"
+secondaryBackgroundColor = "#1B1F24"
+textColor = "#E6EDF3"
+font = "sans serif"
+
+[client]
+# Deixa o menu do canto mais limpo e habilita navegação por sidebar
+toolbarMode = "minimal"          # "auto" | "minimal" | "viewer"
+showSidebarNavigation = true
+
+[server]
+headless = true
+fileWatcherType = "auto"
+# serverPort = 8501  # (opcional) fixe a porta se quiser

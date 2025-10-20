@@ -1,0 +1,7 @@
+streamlit>=1.45,<1.51
+pandas>=2.2,<2.3
+numpy>=1.26,<2.1
+scikit-learn>=1.4,<1.6
+bcrypt>=4.1,<4.2
+tabula-py>=2.10,<2.11
+openpyxl>=3.1

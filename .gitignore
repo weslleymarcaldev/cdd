@@ -1,0 +1,11 @@
+node_modules
+.venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+storage/*.json
+storage/*.md
+.env
+assets/styles.css
+.DS_Store
+NUL
